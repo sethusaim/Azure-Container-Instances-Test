@@ -1,5 +1,6 @@
 import yaml
 
+
 def read_params(config_path="params.yaml"):
     """
     Method Name :   read_params
